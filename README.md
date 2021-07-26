@@ -7,7 +7,7 @@ Para utilizar este flujo es necesario instalar las siguientes librerías:\
 [node-red-node-ui-webcam](https://flows.nodered.org/node/node-red-node-ui-webcam)\
 [node-red-contrib-image-output](https://flows.nodered.org/node/node-red-contrib-image-output)\
 [node-red-contrib-tensorflow](https://flows.nodered.org/node/node-red-contrib-tensorflow)\
-[node-red-contrib-google-cloud](https://flows.nodered.org/node/node-red-contrib-google-cloud)\
+[node-red-contrib-google-cloud](https://flows.nodered.org/node/node-red-contrib-google-cloud)
 ## Resultados
 ![dashboard](../main/img/dashboard.png)
 
