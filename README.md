@@ -10,6 +10,6 @@ Para utilizar este flujo es necesario instalar las siguientes librerías de Node
 [node-red-contrib-google-cloud](https://flows.nodered.org/node/node-red-contrib-google-cloud)
 ## Configuración de Google Vision API
 Para configurar el acceso a la API de Google Vision se recomienda seguir los pasos presentados el siguiente video tutorial:\
-[![Google Cloud Vision API IMAGE ANALYSIS in Node-RED flow - Fullstack Dev Logs](https://img.youtube.com/vi/eaUBSNRKv1A/0.jpg)](https://www.youtube.com/watch?v=https://img.youtube.com/vi/eaUBSNRKv1A/0.jpg)
+[![Google Cloud Vision API IMAGE ANALYSIS in Node-RED flow - Fullstack Dev Logs](https://img.youtube.com/vi/eaUBSNRKv1A/0.jpg)](https://www.youtube.com/watch?v=eaUBSNRKv1A)
 ## Resultados
 ![dashboard](../main/img/dashboard.png)
